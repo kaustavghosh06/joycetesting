@@ -1,0 +1,9 @@
+{
+    "auth": {
+        "joycetestb8e5560d": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    }
+}
